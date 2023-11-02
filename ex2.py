@@ -1,4 +1,4 @@
-print("Introdução de Dois valores para Realizar a soma")
+print("Introdução de Dois valores para realizar a soma dos dois valores")
 a = float(input('Introduza um valor '))
 b = int(input('Introduza outro valor '))
 
